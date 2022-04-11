@@ -1,0 +1,9 @@
+{
+  "name": "anima-design-tokens",
+  "version": "0.0.1",
+  "description": "Collection of Anima design tokens",
+  "main": "index.js",
+  "repository": "https://github.com/AnimaApp/anima-design-tokens.git",
+  "author": "Jorge Martins (jorge@animaapp.com)",
+  "license": "MIT"
+}

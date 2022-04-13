@@ -1,23 +1,25 @@
 {
-  "name": "anima-design-tokens",
+  "name": "@anima/anima-design-tokens",
   "version": "0.0.1",
   "description": "Collection of Anima design tokens",
-  "scripts": {
-    "version": "npm run dist && git add -A .",
-    "dist": "sass src/tokens.scss dist/tokens.css && postcss dist/tokens.css > dist/tokens.min.css"
-  },
   "main": "src/tokens.scss",
   "sass": "src/tokens.scss",
-  "style": "dist/tokens.css",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AnimaApp/anima-design-tokens.git"
+    "url": "git+ssh://git@github.com/AnimaApp/anima-design-tokens.git"
   },
   "author": "Jorge Martins (jorge@animaapp.com)",
   "license": "MIT",
-  "devDependencies": {
-    "cssnano": "^3.10.0",
-    "sass": "^1.26.5",
-    "postcss-cli": "^4.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/AnimaApp/anima-design-tokens/issues"
+  },
+  "homepage": "https://github.com/AnimaApp/anima-design-tokens#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-tokens"
+  ]
 }

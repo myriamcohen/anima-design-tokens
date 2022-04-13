@@ -3,13 +3,13 @@
 ## How to install
 
 ```
-yarn add -D anima-design-tokens
+yarn add -D @anima/anima-design-tokens
 ```
 
 or
 
 ```
-npm install --save-dev anima-design-tokens
+npm install --save-dev @anima/anima-design-tokens
 ```
 
 ## How to use

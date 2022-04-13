@@ -1,0 +1,41 @@
+@import 'colors';
+@import 'typography';
+@import 'shadows';
+
+:root {
+
+    /* Backwards compatibility re-mapping */
+
+    --base-font: var(--text-font);
+    --quirky-font: var(--heading-font);
+
+    --primary: var(--tomato-9);
+    --secondary: #3b3b3b;
+    --tertiary: #d8d8d8;
+
+    --primary-hover: #e2412e;
+
+    --primary-text: #3b3b3b;
+    --secondary-text: rgba(59, 59, 59, 0.4);
+
+    --white: #ffffff;
+    --light-container-background: #f7f7f7;
+
+    --green: var(--green-9);
+    --pink: var(--tomato-7);
+    --blue: var(--blue-9);
+    --yellow: var(--yellow-9);
+    --purple: var(--purple-9);
+    --red: var(--tomato-9);
+
+    --shadow: 0px 4px 12px rgba(59, 59, 59, 0.1);
+    --slightly-stronger-shadow: 0px 4px 12px rgba(59, 59, 59, 0.2);
+
+    --base-font: var(--text-font);
+    --quirky-font: var(--heading-font);
+
+    --dark-primary-text: var(--white);
+    --dark-secondary-text: rgba(255, 255, 255, 0.4);
+    --dark-border-color: rgba(255, 255, 255, 0.4);
+    --dark-border: 1px solid rgba(255, 255, 255, 0.4);
+}

@@ -21,7 +21,7 @@ To use Anima's tokens, just need to import the main file
 ```scss
 /* since we use webpack you can just use ~ instead of 'node_modules/...' */
 
-@import '~anima-design-tokens';
+@import '~@anima/anima-design-tokens';
 ```
 
 ## What's in it?

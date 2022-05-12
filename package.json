@@ -29,7 +29,6 @@
     "version": "npm version patch",
     "version:minor": "npm version minor",
     "version:major": "npm version major",
-    "publish": "npm run dist && npm publish",
     "dist": "sass src/tokens.scss dist/tokens.css && postcss dist/tokens.css > dist/tokens.min.css"
   },
   "keywords": [

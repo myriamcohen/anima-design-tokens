@@ -158,7 +158,7 @@
 
 }
 
-[data-color-theme="light"] {
+[data-color-theme="light"], .figma-light {
     --grey-12: rgba(27, 27, 24, 1);
     --grey-11: rgba(112, 111, 108, 1);
     --grey-10: rgba(134, 134, 130, 1);
@@ -308,7 +308,7 @@
     /* --alpha-amber-1: rgba(192, 130, 5, 0.01600000075995922); */
 }
 
-[data-color-theme="dark"] {
+[data-color-theme="dark"], .figma-dark {
     --grey-12: rgba(237, 237, 236, 1);
     --grey-11: rgba(161, 160, 154, 1);
     --grey-10: rgba(127, 126, 119, 1);

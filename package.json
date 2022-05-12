@@ -1,9 +1,14 @@
 {
   "name": "@anima/anima-design-tokens",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Collection of Anima design tokens",
   "main": "src/tokens.scss",
   "sass": "src/tokens.scss",
+  "files": [
+    "dist/*",
+    "src/tokens.scss",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/AnimaApp/anima-design-tokens.git"

@@ -1,6 +1,6 @@
 {
   "name": "@anima/anima-design-tokens",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Collection of Anima design tokens",
   "main": "src/tokens.scss",
   "sass": "src/tokens.scss",
@@ -22,8 +22,8 @@
   "dependencies": {},
   "devDependencies": {
     "cssnano": "^3.10.0",
-    "sass": "^1.26.5",
-    "postcss-cli": "^4.1.0"
+    "postcss-cli": "^4.1.0",
+    "sass": "^1.26.5"
   },
   "scripts": {
     "version": "npm version patch",

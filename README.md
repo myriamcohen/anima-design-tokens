@@ -17,13 +17,13 @@ npm install
 ## How to install
 
 ```
-yarn add -D @anima/anima-design-tokens
+yarn add -D @animaapp/anima-design-tokens
 ```
 
 or
 
 ```
-npm install --save-dev @anima/anima-design-tokens
+npm install --save-dev @animaapp/anima-design-tokens
 ```
 
 ## How to use
@@ -35,7 +35,7 @@ To use Anima's tokens, just need to import the main file
 ```scss
 /* since we use webpack you can just use ~ instead of 'node_modules/...' */
 
-@import '~@anima/anima-design-tokens';
+@import '~@animaapp/anima-design-tokens';
 ```
 
 ## What's in it?
@@ -58,7 +58,7 @@ npm version vX.Y.Z
 2. Push the changes
 
 ```
-git push --follow-tagsg
+git push --follow-tags
 ```
 
 3. Run on your terminal:

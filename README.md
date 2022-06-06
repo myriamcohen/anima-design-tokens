@@ -1,5 +1,19 @@
 ## Anima design Tokens
 
+## Project setup
+
+1. Clone this repository
+
+```sh
+git clone git@github.com:AnimaApp/anima-design-tokens.git && cd anima-design-tokens
+```
+
+2. Install the dependencies
+
+```sh
+npm install
+```
+
 ## How to install
 
 ```

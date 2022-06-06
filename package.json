@@ -1,5 +1,5 @@
 {
-  "name": "@anima/anima-design-tokens",
+  "name": "@animaapp/anima-design-tokens",
   "version": "0.0.5",
   "description": "Collection of Anima design tokens",
   "main": "src/tokens.scss",
@@ -10,6 +10,9 @@
     "src/tokens.scss",
     "README.md"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/AnimaApp/anima-design-tokens.git"

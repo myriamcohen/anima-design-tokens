@@ -46,3 +46,23 @@ To use Anima's tokens, just need to import the main file
 - [ ] Semantic color tokens
 - [ ] Shadows
 - [ ] Border radius
+
+## Release
+
+1. Push a new package version
+
+```
+npm version vX.Y.Z
+```
+
+2. Push the changes
+
+```
+git push --follow-tagsg
+```
+
+3. Run on your terminal:
+
+```
+npm dist && npm publish
+```

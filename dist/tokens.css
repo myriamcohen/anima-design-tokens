@@ -450,12 +450,13 @@
 :root {
   /* Fonts */
   --text-font: "Mulish", sans-serif;
-  --heading-font: "Caveat", cursive;
+  --heading-font: "Roslindale", cursive;
   /* Text-size styles */
+  --text-xs: 11px;
   --text-sm: 12px;
   --text-md: 14px;
   --text-lg: 17px;
-  --text-xl: 20px;
+  --headings-xs: 20px;
   --headings-sm: 24px;
   --headings-md: 30px;
   --headings-lg: 36px;

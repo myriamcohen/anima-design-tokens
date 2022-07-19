@@ -32,7 +32,9 @@
     "version": "npm version patch",
     "version:minor": "npm version minor",
     "version:major": "npm version major",
-    "dist": "sass src/tokens.scss dist/tokens.css && cat dist/tokens.css | postcss -u cssnano > dist/tokens.min.css"
+    "clean": "rm -rf dist",
+    "dist": "sass src/tokens.scss dist/tokens.css && cat dist/tokens.css | postcss -u cssnano > dist/tokens.min.css",
+    "release": "npm run clean && npm run dist && npm publish"
   },
   "keywords": [
     "design-tokens"

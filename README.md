@@ -51,18 +51,20 @@ To use Anima's tokens, just need to import the main file
 
 1. Push a new package version
 
-```
-npm version vX.Y.Z
+```js
+npm run version //patch
+npm run version:minor
+npm run version:major
 ```
 
 2. Push the changes
 
-```
+```js
 git push --follow-tags
 ```
 
 3. Run on your terminal:
 
-```
-npm dist && npm publish
+```js
+npm run release
 ```

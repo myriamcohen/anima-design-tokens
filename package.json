@@ -1,6 +1,6 @@
 {
   "name": "@animaapp/anima-design-tokens",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Collection of Anima design tokens",
   "main": "src/tokens.scss",
   "css": "dist/tokens.css",

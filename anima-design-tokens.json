@@ -1,0 +1,2556 @@
+{
+  "default": {
+    "light": {
+      "amber-12": {
+        "value": "#4e2009",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "amber-11": {
+        "value": "#ad5700",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "amber-10": {
+        "value": "#ff9f1a",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "amber-9": {
+        "value": "#ffb224",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "amber-8": {
+        "value": "#ee9d2b",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "amber-7": {
+        "value": "#f3b962",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "amber-6": {
+        "value": "#ffd285",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "amber-5": {
+        "value": "#ffe3a3",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "amber-4": {
+        "value": "#ffecbd",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "amber-3": {
+        "value": "#fff4d6",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "amber-2": {
+        "value": "#fff8eb",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "amber-1": {
+        "value": "#fefdfb",
+        "type": "color",
+        "description": "App background"
+      },
+      "green-12": {
+        "value": "#153229",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "green-11": {
+        "value": "#18775b",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "green-10": {
+        "value": "#2a9877",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "green-9": {
+        "value": "#2aa280",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "green-8": {
+        "value": "#5bb99c",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "green-7": {
+        "value": "#92cebc",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "green-6": {
+        "value": "#b4dfd2",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "green-5": {
+        "value": "#ccebe2",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "green-4": {
+        "value": "#ddf3ec",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "green-3": {
+        "value": "#ebfaf5",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "green-2": {
+        "value": "#f3fcf9",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "green-1": {
+        "value": "#fbfefd",
+        "type": "color",
+        "description": "App background"
+      },
+      "purple-12": {
+        "value": "#1f1249",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "purple-11": {
+        "value": "#5746af",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "purple-10": {
+        "value": "#634ec1",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "purple-9": {
+        "value": "#6d54cf",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "purple-8": {
+        "value": "#a898ec",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "purple-7": {
+        "value": "#c5b9f3",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "purple-6": {
+        "value": "#d5cdf9",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "purple-5": {
+        "value": "#e4defc",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "purple-4": {
+        "value": "#ebe7fe",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "purple-3": {
+        "value": "#f3f0ff",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "purple-2": {
+        "value": "#fbfaff",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "purple-1": {
+        "value": "#fcfbfe",
+        "type": "color",
+        "description": "App background"
+      },
+      "blue-12": {
+        "value": "#08174e",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "blue-11": {
+        "value": "#2e4bdc",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "blue-10": {
+        "value": "#2663df",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "blue-9": {
+        "value": "#426bff",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "blue-8": {
+        "value": "#758ff0",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "blue-7": {
+        "value": "#9cadf2",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "blue-6": {
+        "value": "#b0c0f7",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "blue-5": {
+        "value": "#c7d5ff",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "blue-4": {
+        "value": "#dbe3ff",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "blue-3": {
+        "value": "#ecf0fe",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "blue-2": {
+        "value": "#f5f7ff",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "blue-1": {
+        "value": "#fafbff",
+        "type": "color",
+        "description": "App background"
+      },
+      "grey-12": {
+        "value": "#1b1b18",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "grey-11": {
+        "value": "#706f6b",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "grey-10": {
+        "value": "#878782",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "grey-9": {
+        "value": "#91918d",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "grey-8": {
+        "value": "#c8c7c1",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "grey-7": {
+        "value": "#dbdbd7",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "grey-6": {
+        "value": "#e2e2df",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "grey-5": {
+        "value": "#e9e9e7",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "grey-4": {
+        "value": "#eeeeec",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "grey-3": {
+        "value": "#f3f3f2",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "grey-2": {
+        "value": "#f8f8f7",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "grey-1": {
+        "value": "#fdfdfc",
+        "type": "color",
+        "description": "App background"
+      },
+      "tomato-12": {
+        "value": "#450a00",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "tomato-11": {
+        "value": "#d43029",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "tomato-10": {
+        "value": "#e34236",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "tomato-9": {
+        "value": "#f55442",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "tomato-8": {
+        "value": "#ff8c80",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "tomato-7": {
+        "value": "#ffb2a3",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "tomato-6": {
+        "value": "#ffc2b5",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "tomato-5": {
+        "value": "#ffd1c9",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "tomato-4": {
+        "value": "#ffded6",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "tomato-3": {
+        "value": "#ffede8",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "tomato-2": {
+        "value": "#fff5f2",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "tomato-1": {
+        "value": "#fffcfc",
+        "type": "color",
+        "description": "App background"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "focus-ring": {
+        "value": {
+          "color": "#e2e2df",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 3
+        },
+        "type": "boxShadow"
+      },
+      "error-focus-ring": {
+        "value": {
+          "color": "#fddcd8",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 3
+        },
+        "type": "boxShadow"
+      },
+      "orange-12": {
+        "value": "#451e11",
+        "type": "color"
+      },
+      "orange-11": {
+        "value": "#bd4b00",
+        "type": "color"
+      },
+      "orange-10": {
+        "value": "#ed5f00",
+        "type": "color"
+      },
+      "orange-9": {
+        "value": "#f76808",
+        "type": "color"
+      },
+      "orange-8": {
+        "value": "#fa934e",
+        "type": "color"
+      },
+      "orange-7": {
+        "value": "#ffb381",
+        "type": "color"
+      },
+      "orange-6": {
+        "value": "#ffcca7",
+        "type": "color"
+      },
+      "orange-5": {
+        "value": "#ffdcc3",
+        "type": "color"
+      },
+      "orange-4": {
+        "value": "#ffe8d7",
+        "type": "color"
+      },
+      "orange-3": {
+        "value": "#fff1e7",
+        "type": "color"
+      },
+      "orange-2": {
+        "value": "#fef8f4",
+        "type": "color"
+      },
+      "orange-1": {
+        "value": "#fefcfb",
+        "type": "color"
+      },
+      "pink-12": {
+        "value": "#3b0a2a",
+        "type": "color"
+      },
+      "pink-11": {
+        "value": "#cd1d8d",
+        "type": "color"
+      },
+      "pink-10": {
+        "value": "#d23197",
+        "type": "color"
+      },
+      "pink-9": {
+        "value": "#d6409f",
+        "type": "color"
+      },
+      "pink-8": {
+        "value": "#e38ec3",
+        "type": "color"
+      },
+      "pink-7": {
+        "value": "#ecadd4",
+        "type": "color"
+      },
+      "pink-6": {
+        "value": "#f3c6e2",
+        "type": "color"
+      },
+      "pink-5": {
+        "value": "#f9d8ec",
+        "type": "color"
+      },
+      "pink-4": {
+        "value": "#fce5f3",
+        "type": "color"
+      },
+      "pink-3": {
+        "value": "#feeef8",
+        "type": "color"
+      },
+      "pink-2": {
+        "value": "#fff7fc",
+        "type": "color"
+      },
+      "pink-1": {
+        "value": "#fffcfe",
+        "type": "color"
+      },
+      "figma-color-border": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "figma-color-icon": {
+        "value": "#000000e6",
+        "type": "color"
+      },
+      "figma-color-bg": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "figma-color-text": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "figma-color-bg-warning": {
+        "value": "#ffcd29",
+        "type": "color"
+      },
+      "figma-color-icon-onwarning": {
+        "value": "#010101e6",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "amber-12": {
+        "value": "#fef3dc",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "amber-11": {
+        "value": "#f2a20d",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "amber-10": {
+        "value": "#ffcb47",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "amber-9": {
+        "value": "#ffb224",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "amber-8": {
+        "value": "#804d00",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "amber-7": {
+        "value": "#6b4105",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "amber-6": {
+        "value": "#573300",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "amber-5": {
+        "value": "#4d2a00",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "amber-4": {
+        "value": "#3d2100",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "amber-3": {
+        "value": "#331b00",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "amber-2": {
+        "value": "#291800",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "amber-1": {
+        "value": "#1f1300",
+        "type": "color",
+        "description": "App background"
+      },
+      "green-12": {
+        "value": "#e5fbf4",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "green-11": {
+        "value": "#4bc39f",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "green-10": {
+        "value": "#3caf8c",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "green-9": {
+        "value": "#2aa280",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "green-8": {
+        "value": "#226d56",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "green-7": {
+        "value": "#1b5544",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "green-6": {
+        "value": "#164537",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "green-5": {
+        "value": "#13392f",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "green-4": {
+        "value": "#113127",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "green-3": {
+        "value": "#0f2921",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "green-2": {
+        "value": "#0b1d18",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "green-1": {
+        "value": "#0c1814",
+        "type": "color",
+        "description": "App background"
+      },
+      "purple-12": {
+        "value": "#efecfe",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "purple-11": {
+        "value": "#9f8dfc",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "purple-10": {
+        "value": "#7b65dc",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "purple-9": {
+        "value": "#6d54cf",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "purple-8": {
+        "value": "#5741c3",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "purple-7": {
+        "value": "#443592",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "purple-6": {
+        "value": "#392c72",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "purple-5": {
+        "value": "#32265e",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "purple-4": {
+        "value": "#2b224f",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "purple-3": {
+        "value": "#241d3e",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "purple-2": {
+        "value": "#1c172b",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "purple-1": {
+        "value": "#17151e",
+        "type": "color",
+        "description": "App background"
+      },
+      "blue-12": {
+        "value": "#ebefff",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "blue-11": {
+        "value": "#5d82f8",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "blue-10": {
+        "value": "#5277ff",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "blue-9": {
+        "value": "#426bff",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "blue-8": {
+        "value": "#2e4ec2",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "blue-7": {
+        "value": "#2c4290",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "blue-6": {
+        "value": "#2a3d84",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "blue-5": {
+        "value": "#273672",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "blue-4": {
+        "value": "#243166",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "blue-3": {
+        "value": "#1d2854",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "blue-2": {
+        "value": "#141c39",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "blue-1": {
+        "value": "#111922",
+        "type": "color",
+        "description": "App background"
+      },
+      "grey-12": {
+        "value": "#eeeeed",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "grey-11": {
+        "value": "#a2a19a",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "grey-10": {
+        "value": "#7e7d77",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "grey-9": {
+        "value": "#727169",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "grey-8": {
+        "value": "#52514c",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "grey-7": {
+        "value": "#3f3f3b",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "grey-6": {
+        "value": "#353431",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "grey-5": {
+        "value": "#2d2d2a",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "grey-4": {
+        "value": "#272725",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "grey-3": {
+        "value": "#222220",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "grey-2": {
+        "value": "#1d1d1b",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "grey-1": {
+        "value": "#151514",
+        "type": "color",
+        "description": "App background"
+      },
+      "tomato-12": {
+        "value": "#ffede8",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "tomato-11": {
+        "value": "#ff7d66",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "tomato-10": {
+        "value": "#ff634f",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "tomato-9": {
+        "value": "#f55442",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "tomato-8": {
+        "value": "#ab3026",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "tomato-7": {
+        "value": "#832a21",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "tomato-6": {
+        "value": "#61211a",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "tomato-5": {
+        "value": "#521c17",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "tomato-4": {
+        "value": "#401a12",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "tomato-3": {
+        "value": "#33140d",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "tomato-2": {
+        "value": "#26140f",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "tomato-1": {
+        "value": "#1c0d08",
+        "type": "color",
+        "description": "App background"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "focus-ring": {
+        "value": {
+          "color": "#353431",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 3
+        },
+        "type": "boxShadow"
+      },
+      "error-focus-ring": {
+        "value": {
+          "color": "#55211b",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 3
+        },
+        "type": "boxShadow"
+      },
+      "orange-12": {
+        "value": "#feeadd",
+        "type": "color"
+      },
+      "orange-11": {
+        "value": "#ff8b3e",
+        "type": "color"
+      },
+      "orange-10": {
+        "value": "#ff802b",
+        "type": "color"
+      },
+      "orange-9": {
+        "value": "#f76808",
+        "type": "color"
+      },
+      "orange-8": {
+        "value": "#943e00",
+        "type": "color"
+      },
+      "orange-7": {
+        "value": "#763205",
+        "type": "color"
+      },
+      "orange-6": {
+        "value": "#5f2a06",
+        "type": "color"
+      },
+      "orange-5": {
+        "value": "#4f2305",
+        "type": "color"
+      },
+      "orange-4": {
+        "value": "#441f04",
+        "type": "color"
+      },
+      "orange-3": {
+        "value": "#391a03",
+        "type": "color"
+      },
+      "orange-2": {
+        "value": "#2b1400",
+        "type": "color"
+      },
+      "orange-1": {
+        "value": "#1f1206",
+        "type": "color"
+      },
+      "pink-12": {
+        "value": "#feebf7",
+        "type": "color"
+      },
+      "pink-11": {
+        "value": "#f65cb6",
+        "type": "color"
+      },
+      "pink-10": {
+        "value": "#e34ba9",
+        "type": "color"
+      },
+      "pink-9": {
+        "value": "#d6409f",
+        "type": "color"
+      },
+      "pink-8": {
+        "value": "#a71873",
+        "type": "color"
+      },
+      "pink-7": {
+        "value": "#7a1d5a",
+        "type": "color"
+      },
+      "pink-6": {
+        "value": "#601d48",
+        "type": "color"
+      },
+      "pink-5": {
+        "value": "#501b3f",
+        "type": "color"
+      },
+      "pink-4": {
+        "value": "#451a37",
+        "type": "color"
+      },
+      "pink-3": {
+        "value": "#3a182f",
+        "type": "color"
+      },
+      "pink-2": {
+        "value": "#271421",
+        "type": "color"
+      },
+      "pink-1": {
+        "value": "#1f121b",
+        "type": "color"
+      },
+      "figma-color-border": {
+        "value": "#444444",
+        "type": "color"
+      },
+      "figma-color-icon": {
+        "value": "#ffffffe6",
+        "type": "color"
+      },
+      "figma-color-bg": {
+        "value": "#2c2c2c",
+        "type": "color"
+      },
+      "figma-color-text": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "figma-color-bg-warning": {
+        "value": "#f3c11b",
+        "type": "color"
+      },
+      "figma-color-icon-onwarning": {
+        "value": "#000000e6",
+        "type": "color"
+      }
+    },
+    "fontFamilies": {
+      "mulish": {
+        "value": "Mulish",
+        "type": "fontFamilies"
+      },
+      "roslindale": {
+        "value": "Roslindale",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "160%",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "mulish-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "mulish-1": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "mulish-2": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "roslindale-3": {
+        "value": "Deck Narrow Regular",
+        "type": "fontWeights"
+      },
+      "roslindale-4": {
+        "value": "Deck Narrow Medium",
+        "type": "fontWeights"
+      },
+      "roslindale-5": {
+        "value": "Deck Narrow Bold",
+        "type": "fontWeights"
+      },
+      "roslindale-6": {
+        "value": "Display Condensed Bold",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "11",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "17",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "30",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "43",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "text": {
+      "regular": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-0}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "medium": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-1}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-1}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "bold": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.mulish}",
+            "fontWeight": "{fontWeights.mulish-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "headings": {
+      "regular": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "medium": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "bold": {
+        "xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "{fontFamilies.roslindale}",
+            "fontWeight": "{fontWeights.roslindale-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "floating-element": {
+      "value": {
+        "color": "#3b3b3b1a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 4,
+        "blur": 12,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "paragraphIndent": {
+      "0": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    }
+  },
+  "light": {
+    "light": {
+      "amber-12": {
+        "value": "#4e2009",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "amber-11": {
+        "value": "#ad5700",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "amber-10": {
+        "value": "#ff9f1a",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "amber-9": {
+        "value": "#ffb224",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "amber-8": {
+        "value": "#ee9d2b",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "amber-7": {
+        "value": "#f3b962",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "amber-6": {
+        "value": "#ffd285",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "amber-5": {
+        "value": "#ffe3a3",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "amber-4": {
+        "value": "#ffecbd",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "amber-3": {
+        "value": "#fff4d6",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "amber-2": {
+        "value": "#fff8eb",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "amber-1": {
+        "value": "#fefdfb",
+        "type": "color",
+        "description": "App background"
+      },
+      "green-12": {
+        "value": "#153229",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "green-11": {
+        "value": "#18775b",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "green-10": {
+        "value": "#2a9877",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "green-9": {
+        "value": "#2aa280",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "green-8": {
+        "value": "#5bb99c",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "green-7": {
+        "value": "#92cebc",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "green-6": {
+        "value": "#b4dfd2",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "green-5": {
+        "value": "#ccebe2",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "green-4": {
+        "value": "#ddf3ec",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "green-3": {
+        "value": "#ebfaf5",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "green-2": {
+        "value": "#f3fcf9",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "green-1": {
+        "value": "#fbfefd",
+        "type": "color",
+        "description": "App background"
+      },
+      "purple-12": {
+        "value": "#1f1249",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "purple-11": {
+        "value": "#5746af",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "purple-10": {
+        "value": "#634ec1",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "purple-9": {
+        "value": "#6d54cf",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "purple-8": {
+        "value": "#a898ec",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "purple-7": {
+        "value": "#c5b9f3",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "purple-6": {
+        "value": "#d5cdf9",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "purple-5": {
+        "value": "#e4defc",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "purple-4": {
+        "value": "#ebe7fe",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "purple-3": {
+        "value": "#f3f0ff",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "purple-2": {
+        "value": "#fbfaff",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "purple-1": {
+        "value": "#fcfbfe",
+        "type": "color",
+        "description": "App background"
+      },
+      "blue-12": {
+        "value": "#08174e",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "blue-11": {
+        "value": "#2e4bdc",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "blue-10": {
+        "value": "#2663df",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "blue-9": {
+        "value": "#426bff",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "blue-8": {
+        "value": "#758ff0",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "blue-7": {
+        "value": "#9cadf2",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "blue-6": {
+        "value": "#b0c0f7",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "blue-5": {
+        "value": "#c7d5ff",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "blue-4": {
+        "value": "#dbe3ff",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "blue-3": {
+        "value": "#ecf0fe",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "blue-2": {
+        "value": "#f5f7ff",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "blue-1": {
+        "value": "#fafbff",
+        "type": "color",
+        "description": "App background"
+      },
+      "grey-12": {
+        "value": "#1b1b18",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "grey-11": {
+        "value": "#706f6b",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "grey-10": {
+        "value": "#878782",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "grey-9": {
+        "value": "#91918d",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "grey-8": {
+        "value": "#c8c7c1",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "grey-7": {
+        "value": "#dbdbd7",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "grey-6": {
+        "value": "#e2e2df",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "grey-5": {
+        "value": "#e9e9e7",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "grey-4": {
+        "value": "#eeeeec",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "grey-3": {
+        "value": "#f3f3f2",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "grey-2": {
+        "value": "#f8f8f7",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "grey-1": {
+        "value": "#fdfdfc",
+        "type": "color",
+        "description": "App background"
+      },
+      "tomato-12": {
+        "value": "#450a00",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "tomato-11": {
+        "value": "#d43029",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "tomato-10": {
+        "value": "#e34236",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "tomato-9": {
+        "value": "#f55442",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "tomato-8": {
+        "value": "#ff8c80",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "tomato-7": {
+        "value": "#ffb2a3",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "tomato-6": {
+        "value": "#ffc2b5",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "tomato-5": {
+        "value": "#ffd1c9",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "tomato-4": {
+        "value": "#ffded6",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "tomato-3": {
+        "value": "#ffede8",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "tomato-2": {
+        "value": "#fff5f2",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "tomato-1": {
+        "value": "#fffcfc",
+        "type": "color",
+        "description": "App background"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "orange-12": {
+        "value": "#451e11",
+        "type": "color"
+      },
+      "orange-11": {
+        "value": "#bd4b00",
+        "type": "color"
+      },
+      "orange-10": {
+        "value": "#ed5f00",
+        "type": "color"
+      },
+      "orange-9": {
+        "value": "#f76808",
+        "type": "color"
+      },
+      "orange-8": {
+        "value": "#fa934e",
+        "type": "color"
+      },
+      "orange-7": {
+        "value": "#ffb381",
+        "type": "color"
+      },
+      "orange-6": {
+        "value": "#ffcca7",
+        "type": "color"
+      },
+      "orange-5": {
+        "value": "#ffdcc3",
+        "type": "color"
+      },
+      "orange-4": {
+        "value": "#ffe8d7",
+        "type": "color"
+      },
+      "orange-3": {
+        "value": "#fff1e7",
+        "type": "color"
+      },
+      "orange-2": {
+        "value": "#fef8f4",
+        "type": "color"
+      },
+      "orange-1": {
+        "value": "#fefcfb",
+        "type": "color"
+      },
+      "pink-12": {
+        "value": "#3b0a2a",
+        "type": "color"
+      },
+      "pink-11": {
+        "value": "#cd1d8d",
+        "type": "color"
+      },
+      "pink-10": {
+        "value": "#d23197",
+        "type": "color"
+      },
+      "pink-9": {
+        "value": "#d6409f",
+        "type": "color"
+      },
+      "pink-8": {
+        "value": "#e38ec3",
+        "type": "color"
+      },
+      "pink-7": {
+        "value": "#ecadd4",
+        "type": "color"
+      },
+      "pink-6": {
+        "value": "#f3c6e2",
+        "type": "color"
+      },
+      "pink-5": {
+        "value": "#f9d8ec",
+        "type": "color"
+      },
+      "pink-4": {
+        "value": "#fce5f3",
+        "type": "color"
+      },
+      "pink-3": {
+        "value": "#feeef8",
+        "type": "color"
+      },
+      "pink-2": {
+        "value": "#fff7fc",
+        "type": "color"
+      },
+      "pink-1": {
+        "value": "#fffcfe",
+        "type": "color"
+      },
+      "figma-color-border": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "figma-color-icon": {
+        "value": "#000000e6",
+        "type": "color"
+      },
+      "figma-color-bg": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "figma-color-text": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "figma-color-bg-warning": {
+        "value": "#ffcd29",
+        "type": "color"
+      },
+      "figma-color-icon-onwarning": {
+        "value": "#010101e6",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "amber-12": {
+        "value": "#fef3dc",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "amber-11": {
+        "value": "#f2a20d",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "amber-10": {
+        "value": "#ffcb47",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "amber-9": {
+        "value": "#ffb224",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "amber-8": {
+        "value": "#804d00",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "amber-7": {
+        "value": "#6b4105",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "amber-6": {
+        "value": "#573300",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "amber-5": {
+        "value": "#4d2a00",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "amber-4": {
+        "value": "#3d2100",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "amber-3": {
+        "value": "#331b00",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "amber-2": {
+        "value": "#291800",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "amber-1": {
+        "value": "#1f1300",
+        "type": "color",
+        "description": "App background"
+      },
+      "green-12": {
+        "value": "#e5fbf4",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "green-11": {
+        "value": "#4bc39f",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "green-10": {
+        "value": "#3caf8c",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "green-9": {
+        "value": "#2aa280",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "green-8": {
+        "value": "#226d56",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "green-7": {
+        "value": "#1b5544",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "green-6": {
+        "value": "#164537",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "green-5": {
+        "value": "#13392f",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "green-4": {
+        "value": "#113127",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "green-3": {
+        "value": "#0f2921",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "green-2": {
+        "value": "#0b1d18",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "green-1": {
+        "value": "#0c1814",
+        "type": "color",
+        "description": "App background"
+      },
+      "purple-12": {
+        "value": "#efecfe",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "purple-11": {
+        "value": "#9f8dfc",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "purple-10": {
+        "value": "#7b65dc",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "purple-9": {
+        "value": "#6d54cf",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "purple-8": {
+        "value": "#5741c3",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "purple-7": {
+        "value": "#443592",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "purple-6": {
+        "value": "#392c72",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "purple-5": {
+        "value": "#32265e",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "purple-4": {
+        "value": "#2b224f",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "purple-3": {
+        "value": "#241d3e",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "purple-2": {
+        "value": "#1c172b",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "purple-1": {
+        "value": "#17151e",
+        "type": "color",
+        "description": "App background"
+      },
+      "blue-12": {
+        "value": "#ebefff",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "blue-11": {
+        "value": "#5d82f8",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "blue-10": {
+        "value": "#5277ff",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "blue-9": {
+        "value": "#426bff",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "blue-8": {
+        "value": "#2e4ec2",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "blue-7": {
+        "value": "#2c4290",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "blue-6": {
+        "value": "#2a3d84",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "blue-5": {
+        "value": "#273672",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "blue-4": {
+        "value": "#243166",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "blue-3": {
+        "value": "#1d2854",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "blue-2": {
+        "value": "#141c39",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "blue-1": {
+        "value": "#111922",
+        "type": "color",
+        "description": "App background"
+      },
+      "grey-12": {
+        "value": "#eeeeed",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "grey-11": {
+        "value": "#a2a19a",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "grey-10": {
+        "value": "#7e7d77",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "grey-9": {
+        "value": "#727169",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "grey-8": {
+        "value": "#52514c",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "grey-7": {
+        "value": "#3f3f3b",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "grey-6": {
+        "value": "#353431",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "grey-5": {
+        "value": "#2d2d2a",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "grey-4": {
+        "value": "#272725",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "grey-3": {
+        "value": "#222220",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "grey-2": {
+        "value": "#1d1d1b",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "grey-1": {
+        "value": "#151514",
+        "type": "color",
+        "description": "App background"
+      },
+      "tomato-12": {
+        "value": "#ffede8",
+        "type": "color",
+        "description": "High-contrast text"
+      },
+      "tomato-11": {
+        "value": "#ff7d66",
+        "type": "color",
+        "description": "Low-contrast text"
+      },
+      "tomato-10": {
+        "value": "#ff634f",
+        "type": "color",
+        "description": "Hovered solid backgrounds"
+      },
+      "tomato-9": {
+        "value": "#f55442",
+        "type": "color",
+        "description": "Solid backgrounds"
+      },
+      "tomato-8": {
+        "value": "#ab3026",
+        "type": "color",
+        "description": "Hovered UI element border"
+      },
+      "tomato-7": {
+        "value": "#832a21",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "tomato-6": {
+        "value": "#61211a",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "tomato-5": {
+        "value": "#521c17",
+        "type": "color",
+        "description": "Selected UI element background"
+      },
+      "tomato-4": {
+        "value": "#401a12",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "tomato-3": {
+        "value": "#33140d",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "tomato-2": {
+        "value": "#26140f",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "tomato-1": {
+        "value": "#1c0d08",
+        "type": "color",
+        "description": "App background"
+      },
+      "orange-12": {
+        "value": "#feeadd",
+        "type": "color"
+      },
+      "orange-11": {
+        "value": "#ff8b3e",
+        "type": "color"
+      },
+      "orange-10": {
+        "value": "#ff802b",
+        "type": "color"
+      },
+      "orange-9": {
+        "value": "#f76808",
+        "type": "color"
+      },
+      "orange-8": {
+        "value": "#943e00",
+        "type": "color"
+      },
+      "orange-7": {
+        "value": "#763205",
+        "type": "color"
+      },
+      "orange-6": {
+        "value": "#5f2a06",
+        "type": "color"
+      },
+      "orange-5": {
+        "value": "#4f2305",
+        "type": "color"
+      },
+      "orange-4": {
+        "value": "#441f04",
+        "type": "color"
+      },
+      "orange-3": {
+        "value": "#391a03",
+        "type": "color"
+      },
+      "orange-2": {
+        "value": "#2b1400",
+        "type": "color"
+      },
+      "orange-1": {
+        "value": "#1f1206",
+        "type": "color"
+      },
+      "pink-12": {
+        "value": "#feebf7",
+        "type": "color"
+      },
+      "pink-11": {
+        "value": "#f65cb6",
+        "type": "color"
+      },
+      "pink-10": {
+        "value": "#e34ba9",
+        "type": "color"
+      },
+      "pink-9": {
+        "value": "#d6409f",
+        "type": "color"
+      },
+      "pink-8": {
+        "value": "#a71873",
+        "type": "color"
+      },
+      "pink-7": {
+        "value": "#7a1d5a",
+        "type": "color"
+      },
+      "pink-6": {
+        "value": "#601d48",
+        "type": "color"
+      },
+      "pink-5": {
+        "value": "#501b3f",
+        "type": "color"
+      },
+      "pink-4": {
+        "value": "#451a37",
+        "type": "color"
+      },
+      "pink-3": {
+        "value": "#3a182f",
+        "type": "color"
+      },
+      "pink-2": {
+        "value": "#271421",
+        "type": "color"
+      },
+      "pink-1": {
+        "value": "#1f121b",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "figma-color-border": {
+        "value": "#444444",
+        "type": "color"
+      },
+      "figma-color-icon": {
+        "value": "#ffffffe6",
+        "type": "color"
+      },
+      "figma-color-bg": {
+        "value": "#2c2c2c",
+        "type": "color"
+      },
+      "figma-color-text": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "figma-color-bg-warning": {
+        "value": "#f3c11b",
+        "type": "color"
+      },
+      "figma-color-icon-onwarning": {
+        "value": "#000000e6",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "default",
+      "light"
+    ]
+  }
+}

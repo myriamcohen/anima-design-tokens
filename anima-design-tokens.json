@@ -1,5 +1,10 @@
 {
   "default": {
+    "paragraphIndent": {
+      "0": {
+        "value": "0px",
+        "type": "dimension"
+      },
     "light": {
       "amber-12": {
         "value": "#4e2009",
